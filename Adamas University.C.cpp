@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	printf("Adamas University"):
+	printf("Adamas University");
 	return 0;
 }
